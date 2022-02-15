@@ -1,4 +1,5 @@
-A 5A
-L  6A
-ST 7A
+A 4
+L 4
+ST 4
+AR 2
 END
