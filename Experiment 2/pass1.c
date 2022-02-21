@@ -5,6 +5,7 @@
  void main()
 {
  char opcode[10], mnemonic[10], operand[10], label[10], code[10], lclen[10];
+ ;
  int locctr = 0, start, length, flag = 0;
  FILE *fp1, *fp2, *fp3, *fp4;
  fp1 = fopen("INPUT1.txt", "r");
